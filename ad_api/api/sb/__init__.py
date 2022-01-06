@@ -32,7 +32,7 @@ __all__ = [
     "NegativeTargets",
     "TargetsRecommendations",
     "BidRecommendations",
-    "Stores,
+    "Stores",
     "Media",
     "Reports",
     "Snapshots"
